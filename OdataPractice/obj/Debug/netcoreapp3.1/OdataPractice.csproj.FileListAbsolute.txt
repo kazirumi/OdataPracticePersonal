@@ -1,0 +1,9 @@
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.csproj.AssemblyReference.cache
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.AssemblyInfoInputs.cache
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.AssemblyInfo.cs
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.csproj.CoreCompileInputs.cache
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.MvcApplicationPartsAssemblyInfo.cs
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.MvcApplicationPartsAssemblyInfo.cache
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.RazorAssemblyInfo.cache
+G:\Cefalo and Remote Job Practice\OdataPractice\OdataPractice\obj\Debug\netcoreapp3.1\OdataPractice.RazorAssemblyInfo.cs
