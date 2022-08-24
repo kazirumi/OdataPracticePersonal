@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Cefalo and Remote Job Practice\\OdataPractice\\OdataPractice\\OdataPractice.csproj": {}
+    "G:\\Cefalo and Remote Job Practice\\ODataPractice\\OdataPractice\\OdataPractice.csproj": {}
   },
   "projects": {
-    "G:\\Cefalo and Remote Job Practice\\OdataPractice\\OdataPractice\\OdataPractice.csproj": {
+    "G:\\Cefalo and Remote Job Practice\\ODataPractice\\OdataPractice\\OdataPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Cefalo and Remote Job Practice\\OdataPractice\\OdataPractice\\OdataPractice.csproj",
+        "projectUniqueName": "G:\\Cefalo and Remote Job Practice\\ODataPractice\\OdataPractice\\OdataPractice.csproj",
         "projectName": "OdataPractice",
-        "projectPath": "G:\\Cefalo and Remote Job Practice\\OdataPractice\\OdataPractice\\OdataPractice.csproj",
+        "projectPath": "G:\\Cefalo and Remote Job Practice\\ODataPractice\\OdataPractice\\OdataPractice.csproj",
         "packagesPath": "C:\\Users\\rumi\\.nuget\\packages\\",
-        "outputPath": "G:\\Cefalo and Remote Job Practice\\OdataPractice\\OdataPractice\\obj\\",
+        "outputPath": "G:\\Cefalo and Remote Job Practice\\ODataPractice\\OdataPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
